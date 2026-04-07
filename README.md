@@ -22,7 +22,7 @@ A simple HTML website is deployed and made publicly accessible using S3 bucket p
 5. Configured bucket policy for public access
 
 ##  Live Website
-[(Add your S3 website endpoint URL here)](http://tanisha-s3-website.s3-website.ap-south-1.amazonaws.com/)
+(http://tanisha-s3-website.s3-website.ap-south-1.amazonaws.com/)
 
 ## Output
 <img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/3e29c668-7207-42f0-ae85-af393e40a851" />
